@@ -1,1 +1,1 @@
-# quantum_computing
+# Quantum computing course
